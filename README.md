@@ -20,9 +20,9 @@ This repository contains the code of the React application called ToDo-App. I've
 
 **This project contains Three GitHub repositories**
 
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
+➡️ [App Code] (https://github.com/Shreeja042-sai/AppCode-Gitops)
 
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
+➡️ [Terraform code] (https://github.com/Shreeja042-sai/Terraform-Gitops-Modules)
 
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
+➡️ [Manifest Repo] (https://github.com/Shreeja042-sai/kube_manifest_gitops)
 
